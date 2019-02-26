@@ -15,4 +15,9 @@ object StackTest extends App {
 
   println()
 
+  testStack.pop()
+  testStack.printStack()
+
+  println()
+
 }

@@ -96,5 +96,5 @@ class SinglyLinkedList[T] {
     }
     print("]")
   }
-
+  
 }

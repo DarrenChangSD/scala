@@ -30,4 +30,5 @@ object SinglyLinkedListTest extends App {
   testList.printList()
 
   println()
+
 }
